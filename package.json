@@ -1,5 +1,5 @@
 {
-  "name": "omxplayer",
+  "name": "omxplayercontrol",
   "version": "1.0.0",
   "description": "Nodejs module to control omxplayer. Specifically written for the raspberry pi",
   "main": "lib/omxplayer.js",
@@ -17,7 +17,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/oeuillot/node-omxplayer.git"
+    "url": "git+https://github.com/andrea-teom/node-omxplayer-control.git"
   },
   "keywords": [
     "omxplayer",
@@ -25,10 +25,10 @@
     "PI",
     "dbus"
   ],
-  "author": "olivier.oeuillot@gmail.com",
+  "author": "Andrea D'Agostino",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/oeuillot/node-omxplayer/issues"
+    "url": "https://github.com/andrea-teom/node-omxplayer-control/issues"
   },
-  "homepage": "https://github.com/oeuillot/node-omxplayer#readme"
+  "homepage": "https://github.com/andrea-teom/node-omxplayer-control#readme"
 }
